@@ -1,0 +1,15 @@
+#I don't really know what this is.
+#It is merely a test.  
+#Goodbye
+
+input("WHAT DO WE WANT!?")
+if input != "FREEDOM"
+   print("WRONG FOOL! WE WANT FREEDOM!")
+else:
+    input("WHEN DO WE WANT IT!?")
+    if input != "NOW"
+       print("WRONG FOOL! WE WANT FREEDOM!")
+    else:
+       print("YEEEEAAAAH BOOOOI!!!")
+     
+    
